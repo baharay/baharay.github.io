@@ -1,9 +1,17 @@
-I recently got my PhD from the School of Computer and Communication Sciences, École Polytechnique Fédérale de Lausanne (EPFL). I am fortunate to be advised by Prof. Sabine Süsstrunk and Dr. Mathieu Salzmann.
+---
+permalink: /
+title: "Bahar Aydemir's Personal Website"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+I recently obtained my PhD from the School of Computer and Communication Sciences at the École Polytechnique Fédérale de Lausanne (EPFL), where I was fortunate to be advised by Prof. Sabine Süsstrunk and Dr. Mathieu Salzmann.
 
-My main research interest lies in computer vision, particularly in deep saliency prediction, which involves understanding and predicting the regions of an image that capture human attention. My work aims to improve these models particularly by incorporating temporal information and dissimilarity thus enhancing the accuracy and application of saliency prediction algorithms.
+My main research interest is in computer vision, with a focus on deep saliency prediction which involves understanding and predicting the regions of an image that attract human attention. My work specifically aims to enhance these models by incorporating temporal information and dissimilarity, thereby improving the accuracy and applicability of saliency prediction algorithms.
 
-To achieve this, I leverage techniques from machine learning, neuroscience, image processing, and data analysis, aiming to both understand and design better mechanisms for human visual attention in artificial systems.
+To achieve these goals, I leverage techniques from machine learning, neuroscience, image processing, and data analysis, seeking to both understand and develop better mechanisms for human visual attention in artificial systems.
 
-For more details, please find my C.V. here (last updated Aug 2024).
+For more information, please refer to my C.V. here (last updated August 2024).
 
 Contact: baharay.cv@gmail.com
