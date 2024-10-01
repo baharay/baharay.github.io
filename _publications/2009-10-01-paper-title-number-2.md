@@ -6,7 +6,7 @@ excerpt: 'We introduce a detection-guided saliency prediction network that expli
 date: 2022-11-10
 venue: 'Transactions on Machine Learning Research (TMLR)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'  # Replace with actual URL if available
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://openreview.net/pdf?id=NmTMc3uD1G)'    # Replace with actual URL if available
+paperurl: 'https://openreview.net/pdf?id=NmTMc3uD1G'    # Replace with actual URL if available
 citation: 'Bahar Aydemir, Deblina Bhattacharjee, Tong Zhang, Seungryong Kim, Mathieu Salzmann, Sabine Süsstrunk. (2022). &quot;Modeling Object Dissimilarity for Deep Saliency Prediction.&quot; <i>Transactions on Machine Learning Research (TMLR)</i>.'
 ---
 
