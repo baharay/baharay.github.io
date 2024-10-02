@@ -1,7 +1,7 @@
 ---
 title: "Data Augmentation via Latent Diffusion for Saliency Prediction"
 collection: publications
-permalink /publication/2024-10-10-augsal
+permalink: /publication/2024-10-10-augsal
 excerpt: 'We propose a novel data augmentation method for deep saliency prediction that edits natural images while preserving the complexity and variability of real-world scenes.'
 date: 2024-11-10
 venue: 'Proceedings of the European Conference on Computer Vision'
