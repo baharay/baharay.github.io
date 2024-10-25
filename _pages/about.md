@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I recently obtained my PhD from the School of Computer and Communication Sciences at the École Polytechnique Fédérale de Lausanne (EPFL), where I was fortunate to be advised by Prof. Sabine Süsstrunk and Dr. Mathieu Salzmann.
+I recently obtained my PhD from the School of Computer and Communication Sciences at the École Polytechnique Fédérale de Lausanne (EPFL), where I was fortunate to be advised by Prof. Dr. Sabine Süsstrunk and Dr. Mathieu Salzmann.
 
 My main research interest is in computer vision, with a focus on deep saliency prediction which involves understanding and predicting the regions of an image that attract human attention. My work specifically aims to enhance these models by incorporating temporal information and dissimilarity, thereby improving the accuracy and applicability of saliency prediction algorithms.
 
