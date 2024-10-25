@@ -5,8 +5,8 @@ permalink: /publication/2023-07-10-tempsal
 excerpt: 'This paper introduces a novel saliency prediction model that learns to output saliency maps in sequential time intervals by exploiting human temporal attention patterns.'
 date: 2023-07-10
 venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'  # Replace with actual URL if available
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'    # Replace with actual URL if available
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf](https://cvpr.thecvf.com/virtual/2023/poster/21310'  # Replace with actual URL if available
+paperurl: 'http://academicpages.github.io/files/paper1.pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Aydemir_TempSAL_-_Uncovering_Temporal_Information_for_Deep_Saliency_Prediction_CVPR_2023_paper.pdf'    # Replace with actual URL if available
 citation: 'Bahar Aydemir, Ludo Hoffstetter, Tong Zhang, Mathieu Salzmann, Sabine Süsstrunk. (2023). &quot;TempSAL - Uncovering Temporal Information for Deep Saliency Prediction.&quot; <i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>. 6461-6470.'
 ---
 
