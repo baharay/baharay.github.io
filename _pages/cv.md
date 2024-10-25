@@ -18,36 +18,36 @@ Education
 
 Work experience
 ======
-* September 2019 - July 2024: Research Assistant @ EPFL, Image and Visual Representation Lab
+* **Research Assistant @ EPFL, Image and Visual Representation Lab** - September 2019 - July 2024
   * Developed a data augmentation technique for saliency prediction using latent diffusion
   * Incorporated temporal data into image saliency prediction
   * Modeled object appearance and size dissimilarities for saliency prediction
 
-* September 2019 - July 2024: Project Supervision @ EPFL
+* **Project Supervision @ EPFL** - September 2019 - July 2024
   * Supervised projects including eye tracking, face detection, and temporal saliency estimation
 
-* January 2019 - July 2024: Teaching Assistant @ EPFL
+* **Teaching Assistant @ EPFL** - January 2019 - July 2024
   * Proposed and supervised projects for Computational Photography
   * Conducted sessions for Introduction to Computation, Object-Oriented Programming, and Linear Algebra
 
-* June 2017 - September 2017: Internship @ CERN
+* **Internship @ CERN** - June 2017 - September 2017
   * Created Python bindings for the C++ Data Access Library algorithms
 
-* September 2017 - July 2018: Algorithmic Trading Project @ METU
+* **Algorithmic Trading Project @ METU** - September 2017 - July 2018
   * Developed a web-based framework for designing and testing trading algorithms
 
-* June 2016 - August 2016: Internship @ Turkish Aerospace Industries (TAI)
+* **Internship @ Turkish Aerospace Industries (TAI)** - June 2016 - August 2016
   * Implemented an auto-generated user interface in Groovy
 
-* September 2016 - June 2017: Interdisciplinary Design Studio @ METU
+* **Interdisciplinary Design Studio @ METU** - September 2016 - June 2017
   * Developed a body posture recognition and correction system for Autodesk
 
 Skills
 ======
-* Theory: Computer Vision, Machine Learning, Generative AI, Transfer Learning, Deep Learning Model Architectures (CNN, RNN, GAN, VAE), Transformers, Diffusion Models, Image Processing, Image Manipulation, Feature Extraction, Linear Algebra, Probability and Statistics
-* Programming Languages: Python, C, C++, LaTeX, Java, SQL
-* Software Packages: PyTorch, OpenCV, scikit-learn, pandas, NumPy, SciPy, Jupyter, Seaborn
-* Deployment/Version Control: Conda, Docker, git, Kubernetes, Amazon Web Services (AWS)
+* **Theory:** Computer Vision, Machine Learning, Generative AI, Transfer Learning, Deep Learning Model Architectures (CNN, RNN, GAN, VAE), Transformers, Diffusion Models, Image Processing, Image Manipulation, Feature Extraction, Linear Algebra, Probability and Statistics
+* **Programming Languages:** Python, C, C++, LaTeX, Java, SQL
+* **Software Packages:** PyTorch, OpenCV, scikit-learn, pandas, NumPy, SciPy, Jupyter, Seaborn
+* **Deployment/Version Control:** Conda, Docker, git, Kubernetes, Amazon Web Services (AWS)
 
 Publications
 ======
@@ -55,9 +55,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
