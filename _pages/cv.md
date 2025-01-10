@@ -18,6 +18,9 @@ Education
 
 Work experience
 ======
+* **AI/ML Specialist @ TelescopeAI** - September 2024 - Present
+* Collaborated with Intel to optimize and validate model performance for human attention prediction.
+* Migrated PyTorch models to TensorFlow using ONNX, ensuring compatibility and performance across diverse hardware environments.
 * **Research Assistant @ EPFL, Image and Visual Representation Lab** - September 2019 - July 2024
   * Developed a data augmentation technique for saliency prediction using latent diffusion
   * Incorporated temporal data into image saliency prediction
