@@ -12,6 +12,6 @@ My main research interest is in computer vision, with a focus on deep saliency p
 
 To achieve these goals, I leverage techniques from machine learning, neuroscience, image processing, and data analysis, seeking to both understand and develop better mechanisms for human visual attention in artificial systems.
 
-For more information, please refer to my C.V. [here](/files/cv_bahar_2025.pdf) (last updated August 2024).
+For more information, please refer to my C.V. [here](/files/cv_bahar_2025.pdf) (last updated January 2025).
 
 Contact: baharay.cv@gmail.com
